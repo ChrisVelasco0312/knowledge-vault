@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "c7136765a254d997",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d03b2090a499825",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "front-end-vault/React/Beta Docs Study.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "707ac426a2700f1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1133ccf06a9b961",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55b10aef046640c6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f63d16e9675f25a0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e955ec10b01821e3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "369dd047b32bbfa1",
+    "type": "split",
+    "children": [
+      {
+        "id": "daffbe0b24832139",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8fe619117f6add1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "front-end-vault/React/Beta Docs Study.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d336e77ed088095a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "front-end-vault/React/Beta Docs Study.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d198354012af5de2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "799797d704bc519d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "front-end-vault/React/Beta Docs Study.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6d03b2090a499825",
+  "lastOpenFiles": [
+    "front-end-vault/React/Beta Docs Study.md",
+    "README.md"
+  ]
+}
