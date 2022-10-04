@@ -7,8 +7,12 @@
         "id": "03aeed5f6c99f870",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Beta Docs Study.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Beta Docs Study.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Beta Docs Study.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Beta Docs Study.md"
+              }
             }
           }
         ]
@@ -120,6 +128,8 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "03aeed5f6c99f870",
-  "lastOpenFiles": []
+  "active": "e9bc5911f5d56fe0",
+  "lastOpenFiles": [
+    "Beta Docs Study.md"
+  ]
 }
