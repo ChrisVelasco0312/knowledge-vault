@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AWS/Intro to AWS serverless workflow.md",
+            "file": "front-end-vault/React/Beta Docs Study.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 421.5
   },
   "right": {
     "id": "369dd047b32bbfa1",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS/Intro to AWS serverless workflow.md",
+                "file": "front-end-vault/React/Beta Docs Study.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS/Intro to AWS serverless workflow.md",
+                "file": "front-end-vault/React/Beta Docs Study.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS/Intro to AWS serverless workflow.md"
+                "file": "front-end-vault/React/Beta Docs Study.md"
               }
             }
           }
@@ -130,7 +130,11 @@
   },
   "active": "6d03b2090a499825",
   "lastOpenFiles": [
+    "Languages/English cakes..md",
     "front-end-vault/React/Beta Docs Study.md",
+    "front-end-vault/React/images/default_named_exports_differences.png",
+    "front-end-vault/React/images/default_named_import_export_table.png",
+    "AWS/Intro to AWS serverless workflow.md",
     "README.md"
   ]
 }
