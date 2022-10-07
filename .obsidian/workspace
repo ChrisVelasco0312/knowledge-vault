@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AWS/Intro to AWS serverless workflow.md",
+            "file": "2022-10-07.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 421.5
+    "width": 183.5
   },
   "right": {
     "id": "369dd047b32bbfa1",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS/Intro to AWS serverless workflow.md",
+                "file": "2022-10-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS/Intro to AWS serverless workflow.md",
+                "file": "2022-10-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS/Intro to AWS serverless workflow.md"
+                "file": "2022-10-07.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "6d03b2090a499825",
   "lastOpenFiles": [
+    "AWS/Intro to AWS serverless workflow.md",
+    "AWS/Amazon cloudfront.md",
+    "creative-coding/minitidal.md",
     "README.md",
     "2022-10-05.md",
     "front-end-vault/React/Import and export components..md",
     "front-end-vault/React/Thinking in react.md",
     "front-end-vault/React/Beta Docs Study.md",
-    "creative-coding/minitidal.md",
     "Languages/English cakes..md",
-    "front-end-vault/React/images/default_named_exports_differences.png",
-    "front-end-vault/React/images/default_named_import_export_table.png",
-    "AWS/Intro to AWS serverless workflow.md"
+    "front-end-vault/React/images/default_named_exports_differences.png"
   ]
 }
