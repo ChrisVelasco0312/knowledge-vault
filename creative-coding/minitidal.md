@@ -39,3 +39,11 @@ stack [
 # gain 0.8 # crush "2" # delay "2"]
 
 ```
+
+## MiniRecipes
+
+control patterns
+~~~haskell
+ s "drum" |+|  n "1 2 3" |+| n "4 5" |+| speed "1 0.4 0.6"
+
+~~~
