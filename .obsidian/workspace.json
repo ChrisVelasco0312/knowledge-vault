@@ -8,20 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "db86f6671281b761",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "9ed8f795b14fba04",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "creative-coding/concert.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6600bfa0f1198223",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "creative-coding/Tidalcycles quick notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 180.5
+    "width": 200
   },
   "right": {
     "id": "369dd047b32bbfa1",
@@ -94,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "creative-coding/concert.md",
+                "file": "creative-coding/Tidalcycles quick notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "creative-coding/concert.md",
+                "file": "creative-coding/Tidalcycles quick notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "creative-coding/concert.md"
+                "file": "creative-coding/Tidalcycles quick notes.md"
               }
             }
           }
@@ -148,10 +152,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "9ed8f795b14fba04",
+  "active": "6600bfa0f1198223",
   "lastOpenFiles": [
-    "creative-coding/minitidal.md",
     "creative-coding/concert.md",
+    "creative-coding/minitidal.md",
     "2022-10-07.md",
     "AWS/Intro to AWS serverless workflow.md",
     "AWS/Amazon cloudfront.md",
