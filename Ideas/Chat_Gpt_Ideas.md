@@ -21,3 +21,7 @@ Por lo tanto, el NIT completo para este ejemplo sería 12345678-10.
 En general, es más conveniente generar archivos zip de gran tamaño en el backend en lugar de en el frontend. Esto se debe a que el backend suele tener acceso a más recursos y poder de procesamiento que el frontend, por lo que puede manejar mejor archivos grandes. Además, el backend puede implementar técnicas de optimización y paralelización para generar los archivos de manera más eficiente. En el frontend, en cambio, se suele tener un acceso limitado a los recursos del sistema y se puede experimentar una caída en el rendimiento si se intenta generar archivos muy grandes. Por esta razón, se recomienda generar archivos zip de gran tamaño en el backend y luego descargarlos desde el frontend cuando estén listos. 
 
 _respuesta generada por ChatGPT a la pregunta ¿Qué es más conveniente, generar zips de gran tamaño del lado del backend o generarlos en el frontend?
+
+
+## Testing questions
+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
