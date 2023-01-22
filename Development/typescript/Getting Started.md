@@ -85,3 +85,29 @@ dist
 ```
 
 ##### Adding a lint script
+```json
+{
+  "scripts": {
+    ...
+    "lint": "eslint . --ext .ts",
+  }
+}
+```
+
+```bash
+npm run lint
+```
+
+##### Adding a rule
+
+There are three modes for a rule in eslint: `off`, `warn`, and `error`.
+
+-   "off" means 0 (turns the rule off completely)
+-   "warn" means 1 (turns the rule on but won't make the linter fail)
+-   "error" means 2 (turns the rule on and will make the linter fail)
+
+Rules get addes as keys of the rules attribute.
+Add the no-console rule.
+
+
+
