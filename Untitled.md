@@ -1,0 +1,11 @@
+**Estados a filtrar**
+- En proceso de emisión:
+	-
+- Formulario de vinculación
+	-EmisionFVEstado: 'aprovedForm'
+- Inspección:
+	-EmisionInspeccionEstado: 'Aprobados' o 'Creado'
+- Rechazados:
+	-EmisionInspeccionEstado
+- Por confirmar emisión:
+   -EmisionInspeccionEstado: 'Aprobados'
