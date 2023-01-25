@@ -50,6 +50,20 @@ Se propone además implementar modularización por plugins de funcionalidades in
 - Se requiere investigación sobre la API de PDF.js
 - Se requiere conocimiento sobre la suite de tecnologías para creación de componentes Web Components and WebC.
 
+**Actividades**
+1 febrero -->
+1. Investigación y configuración de tecnologías (Arquitectura): | 2 SEMANAS
+		- Creación de repositorio con todas las configuraciones.
+		- Publicación de paquetes en npm : Definir y documentar proceso.
+		- Documentar implementación de PDF.js.
+2. Definición de estructura del proyecto : React. 
+3. Desarrollo:
+	1. Renderizado de pdf - Visualizar los pdf o png y jpgs.
+	2. Funcion vista de páginas.
+	3. Funciones de zoom.
+	4. Funciones de ocr: (API OCR).
+	5. Función de seleccion de texto.
+
 
 
 #### 2. Servicio de descarga masiva de documentos
