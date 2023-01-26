@@ -64,6 +64,66 @@ Se propone además implementar modularización por plugins de funcionalidades in
 	4. Funciones de ocr: (API OCR).
 	5. Función de seleccion de texto.
 
+```
+Para crear un lector de PDF reutilizable y modular en JavaScript que pueda ser instalado como un módulo a través de npm, deberás tener en cuenta lo siguiente:
+
+1.  Utilizar una biblioteca de JavaScript para manejar el renderizado de PDFs, como PDF.js, ya que te ahorrará tiempo y esfuerzo en el desarrollo de la funcionalidad básica del lector.
+    
+2.  Crear un componente React para mostrar el PDF. Este componente debe ser fácil de usar y personalizar por otros desarrolladores de la empresa.
+    
+3.  Crear una interfaz pública para el módulo que permita a los desarrolladores importar y utilizar el componente de React en sus aplicaciones.
+    
+4.  Crear un archivo package.json para el módulo que incluya información como el nombre, la versión y las dependencias necesarias.
+    
+5.  Documentar el uso y la personalización del módulo para que otros desarrolladores puedan usarlo fácilmente.
+    
+6.  Utilizar una herramienta de construcción para empaquetar el código y prepararlo para la distribución a través de npm.
+    
+7.  Publicar el módulo en npm para que otros desarrolladores puedan instalarlo fácilmente en sus proyectos.
+```
+
+```
+la estructura propuesta para el proyecto suena bien en general, pero podría ser mejorada con algunos pasos adicionales para asegurar una implementación sólida y completa. Algunas sugerencias son:
+
+1.  Investigación y configuración de tecnologías (Arquitectura):
+    -   Creación de un plan de pruebas para asegurar que el lector de PDF funcione correctamente en diferentes navegadores y dispositivos.
+    -   Investigar y considerar otras bibliotecas de JavaScript para manejar el renderizado de PDFs, además de PDF.js.
+2.  Definición de estructura del proyecto : React.
+    
+    -   Diseñar una interfaz de usuario intuitiva y fácil de usar para el lector de PDF.
+    -   Considerar la posibilidad de crear diferentes modos de vista (por ejemplo, vista de página única, vista de libro) y proporcionar una forma fácil de cambiar entre ellos.
+3.  Desarrollo:
+    
+    1.  Renderizado de pdf - Visualizar los pdf o png y jpgs.
+    2.  Funcion vista de páginas.
+    3.  Funciones de zoom.
+    4.  Funciones de ocr: (API OCR).
+    5.  Función de seleccion de texto.
+    
+    -   Considerar la posibilidad de agregar funciones adicionales como:
+        -   Buscar palabras o frases dentro del PDF.
+        -   Anotar o resaltar texto.
+        -   Compartir o exportar PDF con anotaciones y resaltado.
+    -   Considerar la posibilidad de agregar soporte para diferentes idiomas
+4.  Testeo y documentación
+    
+    -   Realizar pruebas exhaustivas para asegurar que el lector de PDF funcione correctamente en todos los casos de uso.
+    -   Documentar cómo instalar y utilizar el módulo, así como cualquier función adicional que se haya implementado.
+    -   Documentar cualquier limitación o problema conocido del módulo.
+5.  Deploy:
+    -   Configurar un proceso automatizado para publicar actualizaciones en npm.
+    -   Documentar cómo actualizar el módulo en una aplicación existente.
+```
+
+```
+ La creación de un lector de PDF reusable y modular para nuestra empresa tiene un gran valor en varios aspectos. En primer lugar, nos permitirá mejorar la calidad de nuestros productos actuales al proporcionar una herramienta confiable y actualizada para manejar la visualización de PDFs. Además, esta librería será útil para los desarrolladores de la empresa al momento de crear nuevos productos, ya que les proporcionará una solución sólida y fácil de usar para manejar PDFs, en lugar de tener que crear una solución desde cero cada vez.
+
+Actualmente, utilizamos visores simples para manejar PDFs en nuestros proyectos, pero estos a menudo contienen malas prácticas y dependencias desactualizadas. Al contar con una librería propia, podremos evitar estos problemas y asegurar que nuestros productos sean de alta calidad.
+
+Es importante mencionar que aunque existen otras librerías de PDF para React disponibles, muchas de ellas son muy escuetas o son cerradas y tienen un costo. Nuestra librería será de código abierto y gratuita, lo que la hace una opción atractiva para el uso dentro de la empresa y posiblemente para otros desarrolladores de la industria.
+
+En resumen, la creación de un lector de PDF reusable y modular para nuestra empresa tiene un gran valor en términos de mejorar la calidad de nuestros productos actuales y proporcionar una herramienta confiable y actualizada para nuestros desarrolladores. Además, al ser de código abierto y gratuito, esta librería será una excelente opción para el uso dentro de la empresa y para otros desarrolladores de la industria.
+```
 
 
 #### 2. Servicio de descarga masiva de documentos
