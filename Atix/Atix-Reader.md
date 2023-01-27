@@ -27,16 +27,20 @@ EPIC 4: Implementación de Lector de PDF en web
 
 ## Cronograma
 
+ 1 de fe
+ 1 mes y 2 semanas
+ 
 1.  Investigación y configuración de tecnologías (Arquitectura): 1 semana
 
 -   Creación de repositorio con todas las configuraciones.
 -   Publicación de paquetes en npm: Definir y documentar proceso.
--   Documentar implementación de PDF.js.
+-   Documentar implementación de PDF.js. C++ WEB ASSEMBLY
 
 2.  Definición de estructura del proyecto : 1 semana
 
--   Diseño de la estructura de componentes de React.
+-   Diseño de la estructura de componentes de React. + TypeScript.
 -   Definición de las funciones y métodos necesarios para el correcto funcionamiento del visor de PDF.
+- Test unitarios que fallan.
 
 3.  Desarrollo de funcionalidades básicas: 2 semanas
 
@@ -94,17 +98,20 @@ El componente principal se llamaría `AtixReader` y tendría las siguientes prop
 
 import { AtixReader } from 'atix-reader'
 
-render (
-	<AtixReader 
-		file="document.pdf" 
-		renderText
-		renderTables
-		ocr
-		ocrApi={
-			url: 'https://ocr.api.url/v1/basic',
-			apiKey: 'xxxxxxx'
-		}
-	/>
-)
+const myApp = () => {
+	render (
+		<AtixReader 
+			file="document.pdf" 
+			renderText
+			renderTables
+			ocr
+			ocrApi={
+				url: 'https://ocr.api.url/v1/basic',
+				apiKey: 'xxxxxxx'
+			}
+		/>
+	)
+}
+
 
 ```
