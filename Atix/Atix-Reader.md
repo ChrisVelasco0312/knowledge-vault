@@ -87,7 +87,7 @@ El componente principal se llamaría `AtixReader` y tendría las siguientes prop
 -   `onWordSelect`: Una prop que recibe una función que se ejecutará cuando el usuario seleccione alguna palabra específica del PDF.
 
 - `onSearch`
-- `docCanvas` Activa la posibn
+- `docCanvasRef`  Retorna la referencia del canvas para aplicar operaciones adicionales sobre el canvas del documento.
     
 
 ```jsx
