@@ -21,9 +21,9 @@
 
 EPIC 4: Implementación de Lector de PDF en web
 
--   Historia de usuario 1.1: Como desarrollador, quiero tener una librería de javascript que me permita visualizar y navegar por archivos PDF en una aplicación web, para poder reutilizar el código en diferentes proyectos.
--   Historia de usuario 1.2: Como desarrollador, quiero poder publicar la librería en npm para que sea fácilmente instalable y configurable en otros proyectos. 
--   Historia de usuario 1.3: Como desarrollador, quiero tener documentación clara y detallada sobre cómo utilizar la librería y cómo se implementó PDF.js. 
+-   Historia de usuario 1: Como desarrollador, quiero tener una librería de javascript que me permita visualizar y navegar por archivos PDF en una aplicación web, para poder reutilizar el código en diferentes proyectos.
+-   Historia de usuario 2: Como desarrollador, quiero poder publicar la librería en npm para que sea fácilmente instalable y configurable en otros proyectos. 
+-   Historia de usuario 3: Como desarrollador, quiero tener documentación clara y detallada sobre cómo utilizar la librería y cómo se implementó PDF.js. 
 
 ## Cronograma
 
