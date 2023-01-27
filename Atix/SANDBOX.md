@@ -64,6 +64,45 @@ Se propone además implementar modularización por plugins de funcionalidades in
 	4. Funciones de ocr: (API OCR).
 	5. Función de seleccion de texto.
 
+
+## Cronograma
+
+1.  Investigación y configuración de tecnologías (Arquitectura): 1 semana
+
+-   Creación de repositorio con todas las configuraciones.
+-   Publicación de paquetes en npm: Definir y documentar proceso.
+-   Documentar implementación de PDF.js.
+
+2.  Definición de estructura del proyecto : 1 semana
+
+-   Diseño de la estructura de componentes de React.
+-   Definición de las funciones y métodos necesarios para el correcto funcionamiento del visor de PDF.
+
+3.  Desarrollo de funcionalidades básicas: 2 semanas
+
+-   Renderizado de pdf - Visualizar los pdf o png y jpgs.
+-   Funcion vista de páginas.
+-   Funciones de zoom.
+
+4.  Desarrollo de funcionalidad OCR: 2 semanas
+
+-   Conectividad con una API OCR externa.
+-   Integración de la funcionalidad OCR en el visor de PDF.
+-   Pruebas y ajustes necesarios para mejorar la precisión del OCR.
+
+5.  Desarrollo de funcionalidad de selección de texto: 1 semana
+
+-   Implementación de la funcionalidad de selección de texto en el visor de PDF.
+-   Pruebas y ajustes necesarios para mejorar la usabilidad de la funcionalidad.
+
+6.  Documentación y pruebas: 1 semana
+
+-   Documentación de código y funcionalidades.
+-   Pruebas de todas las funcionalidades implementadas.
+-   Corrección de errores y mejoras necesarias.
+
+
+### HELPERS
 ```
 Para crear un lector de PDF reutilizable y modular en JavaScript que pueda ser instalado como un módulo a través de npm, deberás tener en cuenta lo siguiente:
 
