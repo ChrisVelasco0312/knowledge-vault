@@ -112,3 +112,12 @@ const myApp = () => {
 	)
 }
 ```
+
+## PROCESOS
+
+- Usar repositorio como paquete (no usar npm o github registry)
+- Se usa pdfjs para renderizar. 
+- Se usa jsPDF para convertir png y jpg a PDF
+
+- Docsumo usa png y jpg ---> html -> [ ]
+- pdfjs ---> canvas [ ] 
