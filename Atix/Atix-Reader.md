@@ -27,7 +27,7 @@ EPIC 4: Implementación de Lector de PDF en web
 
 ## Cronograma
 
- 1 de fe
+ 1 de febrero - mitad de marzo.
  1 mes y 2 semanas
  
 1.  Investigación y configuración de tecnologías (Arquitectura): 1 semana
@@ -95,7 +95,6 @@ El componente principal se llamaría `AtixReader` y tendría las siguientes prop
     
 
 ```jsx
-
 import { AtixReader } from 'atix-reader'
 
 const myApp = () => {
@@ -112,6 +111,4 @@ const myApp = () => {
 		/>
 	)
 }
-
-
 ```
