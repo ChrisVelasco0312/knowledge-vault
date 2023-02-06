@@ -34,7 +34,7 @@ EPIC 4: Implementación de Lector de PDF en web
 
 -   Creación de repositorio con todas las configuraciones.
 -   Publicación de paquetes en npm: Definir y documentar proceso.
--   Documentar implementación de PDF.js. C++ WEB ASSEMBLY
+-   Documentar implementación de PDF.js. 
 
 2.  Definición de estructura del proyecto : 1 semana
 
