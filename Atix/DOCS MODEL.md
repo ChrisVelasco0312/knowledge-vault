@@ -21,5 +21,3 @@ Debe de documentarse las respuestas para cada código, por ejemplo:
 	nombre_clave _tipoDato
 
 Debe contener una sección que ejemplifique como debe armarse la solicitud. El ejemplo debe de representar la estructura de la petición de un caso de uso real y también debe de ejemplificarse la respuesta para los códigos de error.
-
-## 
