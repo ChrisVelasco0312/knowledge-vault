@@ -119,3 +119,36 @@ class Student extends Person {
 
 **Why constructors are not inherited from a superclass?** _[[A note about constructors and inheritance]]_
 
+## Asynchronous programming
+
+### `Future` in Dart:
+
+A `Future` represents a potential value or error that will be available at some point in the future. It's use to handle asynchronous operations and is commonly used for one-time computations.
+
+```dart
+Future<T> functionName() { 
+	// Asynchronous code that computes a value of type T 
+}
+```
+
+You can create a `Future` using the `Future` constructor or by using factor functions like `Future.value()` and `Future.delayed()`
+
+### `Stream` in Dart:
+
+A `Stream` is a sequence of asynchronous events. It's used to represent a continuous flow of data over time. Streams are suitable for handling multiple asynchronous events or values.
+
+```dart
+Stream<T> functionName() async* {
+  // Asynchronous code that yields values of type T using the yield keyword
+}
+```
+
+A `Stream` allows you to work with data as it arrives, rather than waiting for all the data to be available at once. 
+
+#### `async*` and `yield`
+
+The `async*` keyword is used to define a generator function that produces a `Stream`. The asterisk `*` indicates that the function uses the `yield` keyword to emit multiple values over time.
+
+The `yield` keyword is uses within a `async*` function to emit values to the associated steam. It allows you to pause the function's execution and send a value to the stream. When the stream's consumer (listener) reads the emitted value, the generator function resumes execution from where it was paused by the previous `yield` statement.
+
+
