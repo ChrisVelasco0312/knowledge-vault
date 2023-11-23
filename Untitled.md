@@ -1,0 +1,3 @@
+
+Buen día a todos, para esta ocasión, vamos a hacer una consulta de un siniestro en Ecuador. Se hizo un cambio notable en los textos en 3 partes clave. Primero, cada estado tiene un nombre distinto a lo que podemos observar en Colombia. De la misma forma , aunque se conserva el nombre de cada uno de los puntos de la linea de movimiento de vehículo que indica cada etapa. Los textos informativos que vemos en cada tarjeta informativa ha cambiado. Por último, en la línea de detalle de actividades, también podemos observar que cada uno de lo hitos, tiene un texto que cambia para pérdida total ecuador.
+
