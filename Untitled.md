@@ -16,3 +16,27 @@ Propuesta final: Usar simple y llanamente media queries en un rango de pantallas
 - Revertir el caos.
 
 right: calc(height-width);
+
+### **.embeddedServiceHelpButton**
+
+0. Quitar todos los fixed de todos los contenedores o elementos de la estructura.
+1. Reemplazar y quita de `embeddedServiceHelpButton`  height width  display background
+2. Control de posición a clase `embeddedServiceHelpButton`
+```css
+.embeddedServiceHelpButton {
+    transform: rotate(-90deg);
+    transform-origin: top left;
+    position: absolute;
+    bottom: 202px;
+    right: -133px;
+}
+```
+
+### **.helpButton**
+
+0. Quitar de mediaqueries `.embeddedServiceHelpButton .helpButton`
+1. Quitar de general `.embeddedServiceHelpButton .helpButton` 
+
+### .uiButton
+
+- quitar o reemplazar: transform y position
