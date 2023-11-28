@@ -14,3 +14,5 @@ Propuesta final: Usar simple y llanamente media queries en un rango de pantallas
 	- 800 - 600
 
 - Revertir el caos.
+
+right: calc(height-width);
