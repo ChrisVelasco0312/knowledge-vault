@@ -12,10 +12,10 @@
 
 _Nota_: Se debe crear la lógica, probar el guardado y al comprobar que todo es funcional, eliminar el registro para pasar a la siguiente relación.
 
-1. Guardado `datos de servicio` <--> `Agenda` (sin relaciones)
-2. Guardado `datos de servicio` <--> `Agenda` <---> `Productos`
-3. Guardado `datos de servicio` <--> `Agenda` <---> `Productos` y `Tecnico`
-4. Guardado `datos de servicio` <--> `Agenda` <---> `Productos` y `Tecnico` y `Cliente`
-5. Guardado `datos de servicio` <--> `Agenda` <---> `Productos` y `Tecnico` y `Cliente` y `recaudo (sin formas de pago)`
-6. Guardado `datos de servicio` <--> `Agenda` <---> `Productos` y `Tecnico` y `Cliente` y `recaudo` <---> `FormaPagos`
-6. Guardado `datos de servicio` <--> `Agenda` <---> `Productos` y `Tecnico` y `Cliente` y `recaudo` <---> `FormaPagos` y `Materiales (lógica de arreglo)`
+- [x] Guardado `datos de servicio` <--> `Agenda` (sin relaciones)
+- [x] Guardado `datos de servicio` <--> `Agenda` <---> `Productos`
+- [ ] Guardado `datos de servicio` <--> `Agenda` <---> `Productos` y `Tecnico`
+- [ ] Guardado `datos de servicio` <--> `Agenda` <---> `Productos` y `Tecnico` y `Cliente`
+- [ ] Guardado `datos de servicio` <--> `Agenda` <---> `Productos` y `Tecnico` y `Cliente` y `recaudo (sin formas de pago)`
+- [ ] Guardado `datos de servicio` <--> `Agenda` <---> `Productos` y `Tecnico` y `Cliente` y `recaudo` <---> `FormaPagos`
+- [ ] Guardado `datos de servicio` <--> `Agenda` <---> `Productos` y `Tecnico` y `Cliente` y `recaudo` <---> `FormaPagos` y `Materiales (lógica de arreglo)`
