@@ -27,7 +27,14 @@
         "description": "string",
         "value": 0,
         "subtotal": 0
-      }
+      },
+      {
+        "code": "string",
+        "quantity": 0,
+        "description": "string",
+        "value": 0,
+        "subtotal": 0
+      }  
     ],
     "collect": {
       "subtotal": 0,
