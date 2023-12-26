@@ -15,9 +15,9 @@ _Nota_: Se debe crear la lógica, probar el guardado y al comprobar que todo es 
 - [x] Guardado `datos de servicio` <--> `Agenda` (sin relaciones)
 - [x] Guardado `datos de servicio` <--> `Agenda` <---> `Productos`
 - [x] Guardado `datos de servicio` <--> `Agenda` <---> `Productos` y `Tecnico`
-- [ ] Guardado `datos de servicio` <--> `Agenda` <---> `Productos` y `Tecnico` y `Cliente`
-- [ ] Guardado `datos de servicio` <--> `Agenda` <---> `Productos` y `Tecnico` y `Cliente` y `recaudo (sin formas de pago)`
-- [ ] Guardado `datos de servicio` <--> `Agenda` <---> `Productos` y `Tecnico` y `Cliente` y `recaudo` <---> `FormaPagos`
+- [x] Guardado `datos de servicio` <--> `Agenda` <---> `Productos` y `Tecnico` y `Cliente`
+- [x] Guardado `datos de servicio` <--> `Agenda` <---> `Productos` y `Tecnico` y `Cliente` y `recaudo (sin formas de pago)`
+- [x] Guardado `datos de servicio` <--> `Agenda` <---> `Productos` y `Tecnico` y `Cliente` y `recaudo` <---> `FormaPagos`
 - [ ] Guardado `datos de servicio` <--> `Agenda` <---> `Productos` y `Tecnico` y `Cliente` y `recaudo` <---> `FormaPagos` y `Materiales (lógica de arreglo)`
 
 https://dbdiagram.io/d/WorkOrders-658a4c0b89dea6279989ad44
