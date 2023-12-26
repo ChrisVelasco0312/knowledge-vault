@@ -36,11 +36,11 @@
         "subtotal": 0
       }  
     ],
-    "collect": {
+    "collection": {
       "subtotal": 0,
       "iva": 0,
       "total": 0,
-      "paymentForms": [
+      "paymentMethod": [
         {
           "description": "string",
           "total": 0,

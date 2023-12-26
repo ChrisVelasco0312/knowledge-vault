@@ -23,4 +23,6 @@ _Nota_: Se debe crear la lógica, probar el guardado y al comprobar que todo es 
 https://dbdiagram.io/d/WorkOrders-658a4c0b89dea6279989ad44
 [[Análisis de AI del diagrama]]
 
-Son las formas de pago reusables entre registros?, si es así, como pueden los usuarios reutilizarlas si se pide crear un códugo
+Son las formas de pago reusables entre registros?, si es así, como pueden los usuarios reutilizarlas si se pide crear un código único y el usuario al registrar no envía ese código.
+
+Son los materiales reusables entre registros?
