@@ -31,3 +31,21 @@ Son los materiales reusables entre registros?
 Si cambia el codigo de material hay dos opciones
     -> Que aparezca error - efectos -> Que siempre el usuario debe actualizar un registro con la misma estructura de datos inicial y si quiere agregar un nuevo producto, debe agregarlo a la lista.
     -> Que no aparezca error y guarde y relacione el nuevo material. No restrictiva.
+
+
+```js
+  let paymentMethodsUpdate = paymentMethodsList.map(
+    async (paymentMethod, index) => {
+      const paymentMethodMap = paymentMethodsMapper(paymentMethod, {
+        collectionRegistrationId: workOrder.collection.RegistroId,
+      })
+      delete paymentMethodMap.UniqueId
+      const paymentMethodsSave = await update(PaymentMethod, paymentMethodMap, {
+        UniqueId: paymentMethodsOnDb[index].UniqueId,
+      })
+      return paymentMethodsSave
+    }
+  )
+  //
+  paymentMethodsUpdate = await Promise.all(paymentMethodsUpdate)
+```
