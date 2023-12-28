@@ -26,3 +26,8 @@ https://dbdiagram.io/d/WorkOrders-658a4c0b89dea6279989ad44
 Son las formas de pago reusables entre registros?, si es así, como pueden los usuarios reutilizarlas si se pide crear un código único y el usuario al registrar no envía ese código.
 
 Son los materiales reusables entre registros?
+
+
+Si cambia el codigo de material hay dos opciones
+    -> Que aparezca error - efectos -> Que siempre el usuario debe actualizar un registro con la misma estructura de datos inicial y si quiere agregar un nuevo producto, debe agregarlo a la lista.
+    -> Que no aparezca error y guarde y relacione el nuevo material. No restrictiva.
