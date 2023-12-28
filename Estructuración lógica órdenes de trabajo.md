@@ -18,7 +18,7 @@ _Nota_: Se debe crear la lógica, probar el guardado y al comprobar que todo es 
 - [x] Guardado `datos de servicio` <--> `Agenda` <---> `Productos` y `Tecnico` y `Cliente`
 - [x] Guardado `datos de servicio` <--> `Agenda` <---> `Productos` y `Tecnico` y `Cliente` y `recaudo (sin formas de pago)`
 - [x] Guardado `datos de servicio` <--> `Agenda` <---> `Productos` y `Tecnico` y `Cliente` y `recaudo` <---> `FormaPagos`
-- [ ] Guardado `datos de servicio` <--> `Agenda` <---> `Productos` y `Tecnico` y `Cliente` y `recaudo` <---> `FormaPagos` y `Materiales (lógica de arreglo)`
+- [x] Guardado `datos de servicio` <--> `Agenda` <---> `Productos` y `Tecnico` y `Cliente` y `recaudo` <---> `FormaPagos` y `Materiales (lógica de arreglo)`
 
 https://dbdiagram.io/d/WorkOrders-658a4c0b89dea6279989ad44
 [[Análisis de AI del diagrama]]
@@ -49,3 +49,11 @@ Si cambia el codigo de material hay dos opciones
   //
   paymentMethodsUpdate = await Promise.all(paymentMethodsUpdate)
 ```
+
+
+Actualizar materiales
+
+- [ ] Revisar si en la lista de materiales no hay uno repetido en la misma lista, si hay repetido retornar error.
+- [ ] Leer lista de materials y revisar si ya existen.
+- [ ] Si existen, actualizarlos
+- [ ] Si no existen, guardar los nuevos.
