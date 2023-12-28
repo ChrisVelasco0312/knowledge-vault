@@ -53,7 +53,7 @@ Si cambia el codigo de material hay dos opciones
 
 Actualizar materiales
 
-- [ ] Revisar si en la lista de materiales no hay uno repetido en la misma lista, si hay repetido retornar error.
-- [ ] Leer lista de materials y revisar si ya existen.
+- [x] Revisar si en la lista de materiales no hay uno repetido en la misma lista, si hay repetido retornar error.
+- [ ] Leer lista de materiales y revisar si ya existen en la base de datos.
 - [ ] Si existen, actualizarlos
 - [ ] Si no existen, guardar los nuevos.
