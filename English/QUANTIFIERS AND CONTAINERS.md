@@ -37,3 +37,12 @@ Both "carton" and "box" are container words, but they have slightly different co
         - A box of tissues
         - A box of cereal
         - A box of books
+
+
+There is a lot
+He poured some juice into the glass.
+
+Would you like some sugar in your tea?
+
+Shee needs a bowl of rice.
+
