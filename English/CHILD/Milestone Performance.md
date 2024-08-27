@@ -31,8 +31,20 @@ We ended up very tired but so happy at the same time; it was an unforgettable ex
 
 ## 3. Tell me about your best friend.
 
-My best friend is my wife. I want to say first, that for me is difficult to keep contact with my old friends, so I do not have to many friends at this point of my life. That became even worse after pandemics. However, my best friend now is my wife too, as I mention her name is Paula, and we share a lot of activities we enjoy together, and we have the same taste in music. We motivate each other to workout for example and we are now addicted to the gym. We also enjoy movies a lot, she is a huge fan of cinema and we are deep critics of films, we enjoy to discuss movies in depth, from the plot to the style or aesthetics. As she's an artist, she also read 
+My best friend is my wife. I want to say first that for me, it is difficult to keep in contact with my old friends, so I do not have too many friends at this point in my life. That became even worse after the pandemic. 
 
-2. What are you doing this weekend?
-3. Which country would you like to visit and why?
-4. Give me directions to get to your house, mall, school.
+However, my best friend now is also my wife. As I mentioned, her name is Paula, and we share a lot of activities we enjoy together, and we have the same taste in music. 
+
+We motivate each other to work out, for example, and we are now addicted to the gym. 
+
+We also enjoy movies a lot; she is a huge fan of cinema, and we are deep critics of films. 
+
+We enjoy discussing movies in depth, from the plot to the style or aesthetics. 
+
+That is just the tip of the iceberg of what we are capable of sharing together. That's why we are best friends.
+
+## 4. What are you doing this weekend?
+
+## 5. Which country would you like to visit and why?
+
+## 6. Give me directions to get to your house, mall, school.
