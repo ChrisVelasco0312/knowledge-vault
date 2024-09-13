@@ -14,3 +14,20 @@ everyone **spoke** (speak) Italian.
 4. My daughter **played** (play) with her toys all afternoon.
 5. Adriana was sick today, so she **slept** (sleep) in and didn’t make it to
 school.
+
+C. Put the verb into the gerund or the infinitive form to complete the sentence
+1. She insisted **to speak** (speak) with her lawyer.
+2. He likes **reading** (read) before going to bed.
+3. The joke was hilarious, I couldn’t help **laughing** (laugh).
+4. We practiced **speaking** (speak) English the whole time we were in England.
+5. Do you have any space in the car? I would love **to come** (come) with you guys.
+
+D.  Fill in the blanks using either; can, could, or be able to in order to complete the
+sentences.
+- Danielle **can** type almost 60 words per minute on the computer.
+- Don't hide your keys under the mat. Anyone **could** find it there. 
+- Isabel was **able to** eat with a spoon when she was 2 years old. 
+- Last night there was an eclipse and we **could** see how the sun and the moon overlapped one another. 
+- I lost my phone last night so I **couldn't** call you when I got home. 
+
+E. 
