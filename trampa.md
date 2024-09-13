@@ -1,3 +1,7 @@
 Nephew
 Daughter
-s
+Son
+Wife
+Husband
+
+
