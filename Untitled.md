@@ -37,5 +37,7 @@ Igor and his assistant learned that while they had not found a cure yet, they ha
 - Have you ever experienced a situation where you worked hard on something
 and wanted to give up?
 
+I've faced some challenges in my life that weren't as significant as Igor's experience, but they were still difficult for me. Once, when I had to finish my theses to graduate from university, I struggled with the text I had written. I almos deleted the entire document, but I did not give up. Eventually, I found the right words and graduated with honors.
+
 
 
