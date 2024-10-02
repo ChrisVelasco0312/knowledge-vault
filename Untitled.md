@@ -24,9 +24,18 @@ The story talked about some bad things happening to people bodies, like "abnorma
 
 - What advice did Igor give his patients when he diagnosed them with Cancer?
 
-Igor
+Igor recommended a healthy diet, rest and spending time with family. He wouldn't give them hopes about the cure yet, because he was still working on such purpose.
+
 - Why did Igor’s assistant become frustrated with the Cancer research?
+
+Igor's assistant became frustrated because they had been working tirelessly for moths without any progress.
+
 - What did Igor and his assistant learn from their research?
+
+Igor and his assistant learned that while they had not found a cure yet, they had eliminated many potential components from their research, bringing them closer to their goal.
+
 - Have you ever experienced a situation where you worked hard on something
 and wanted to give up?
+
+
 
