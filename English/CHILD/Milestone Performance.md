@@ -48,3 +48,25 @@ That is just the tip of the iceberg of what we are capable of sharing together. 
 ## 5. Which country would you like to visit and why?
 
 ## 6. Give me directions to get to your house, mall, school.
+
+I'll provide directions from downtown to my apartment and then to the mall where my gym is located. Starting from downtown:
+
+1. Head north on Main Avenue for about 15 minutes
+2. My apartment building is a high-rise on the left side - I live on the 9th floor
+3. To get to the mall from my apartment:
+    - Exit the building and turn slightly northwest
+    - Walk north along the main road for about 5 minutes
+    - Turn right (east) and continue walking for approximately 15 minutes
+    - The mall will be on your right
+    
+Let me give you directions to the University of Cauca from my apartment:
+
+1. Exit the apartment complex, turning slightly northwest to reach the bypass road (variante)
+2. Turn left onto the bypass road and head west for about 10 minutes
+3. Turn left into the Villa del Viento neighborhood
+4. Drive straight through the neighborhood for about 5 minutes until you reach the main avenue
+5. Turn right onto the main avenue
+6. Continue west on the main avenue for 20-40 minutes (depending on traffic)
+7. When you reach the Medical District (the area with hospitals and health centers), turn left
+8. Drive through the Medical District for about 5 minutes
+9. The University of Cauca will be directly in front of you
