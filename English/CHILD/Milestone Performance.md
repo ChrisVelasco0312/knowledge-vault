@@ -45,7 +45,7 @@ That is just the tip of the iceberg of what we are capable of sharing together. 
 
 ## 4. What are you doing this weekend?
 
-
+I don't have any exciting plans for this weekend, but I'll be going to the gym as usual and might go out for dinner with my partner. I need to study for my programming and math classes, and if I have time, I'll try to finish "Elden Ring," a video game that has been challenging me for months.
 
 ## 5. Which country would you like to visit and why?
 
