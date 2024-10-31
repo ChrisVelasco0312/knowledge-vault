@@ -45,7 +45,11 @@ That is just the tip of the iceberg of what we are capable of sharing together. 
 
 ## 4. What are you doing this weekend?
 
+
+
 ## 5. Which country would you like to visit and why?
+
+I would like to visit Japan, a dream I have always had. There are so many aspects of Japan that fascinate me, particularly its culture and rich history, from the Edo era to the present day. I am captivated by stories of honor, and I enjoy watching movies about emperors and samurai, as well as many anime series. I dream of visiting ancient temples and exploring traditional towns with their classic architectural style, where I can hear the sounds of cicadas, just like in anime. Of course, I also love Japanese cuisine, including sushi, sashimi, and ramen, and I'm eager to discover other traditional dishes.
 
 ## 6. Give me directions to get to your house, mall, school.
 
