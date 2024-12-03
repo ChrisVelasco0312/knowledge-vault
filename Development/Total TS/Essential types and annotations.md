@@ -20,7 +20,46 @@ export const concatName = (first: string, last?: string = "Pocock") => {
 
 Because a default value is added to the parameter, the `| undefined` part of the type is no longer applicable
 
+### The Array modifier syntax `[]`
 
+In the next type, items will be an array of strings.
+```ts
+type ShoppingCart = {
+	userId: string;
+	items: string[];
+};
+```
 
+A second syntax is to explicitly write `Array` with the type inside of angle brackets `<>`
+```ts
+type ShoppingCart = {
+	userId: string;
+	items: Array<string>;
+};
+```
 
- 
+### Array of Objects 
+
+```ts
+type Ingredient = {
+	name: string;
+	quantity: string;
+}
+
+type Recipe = {
+	title: string;
+	instructions: string;
+	ingredients: Ingredient[];
+};
+```
+
+And `Array<Ingredient>` would also work
+```ts
+type Recipe = {
+	title: string;
+	instructions: string;
+	ingredients: Array<Ingredient>;
+};
+```
+
+### Sp
