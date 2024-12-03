@@ -98,5 +98,32 @@ For more clarity, you can add names for each of the types
 ```ts
 [x: number, y: number]
 
-setR
+setRange([0, 10])
+
+// hovering shows
+const setRange: (range: [x: number, y: number]) => void
 ```
+
+### Function types
+```ts
+const modifyUser = (
+  user: User[],
+  id: string,
+  makeChange: (user: User) => User,
+) => {
+  ...
+}
+
+type MakeChangeFunc = (user: User) => User
+
+const modifyUser = (
+  user: User[],
+  id: string,
+  makeChange: MakeChangeFunc,
+) => {
+  ...
+}
+```
+
+### Restricting `Set` types
+
