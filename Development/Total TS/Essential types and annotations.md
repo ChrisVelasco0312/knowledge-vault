@@ -62,4 +62,41 @@ type Recipe = {
 };
 ```
 
-### Sp
+### Rest parameters
+
+When using rest parameters, all of the arguments passed to the parameter will end up as an array that is passed to the function.
+```ts
+export function concatenate(...strings: string[]) {
+	return strings.join("");
+}
+```
+
+It's also possible to have other parameters come before the rest parameter. For example, we could have a `num` parameter of number before the rest parameter:
+
+```ts
+export function concatenateWithNumber(num: number, ...strings: string[]) {
+	return strings.join("");
+}
+```
+
+### Tuple syntax
+
+Use square brackets with types inside: `[number, number]`
+
+```ts
+const setRange = (range: [number, number]) => {
+  ...
+}
+```
+
+A tuple here is equal to an array of two members. If we pass it too few arguments, TypeScript will show an error:
+```
+Argument of type 'number' is not assignable to parameter of type '[number, number]'.
+```
+
+For more clarity, you can add names for each of the types
+```ts
+[x: number, y: number]
+
+setR
+```
