@@ -139,8 +139,27 @@ const userIds: Set<number> = new Set();
 
 ### Adding Types to Maps
 
+```ts
+type User = {
+	name: string;
+	age: number;
+};
+
+const userMap = new Map<number, User>();
+```
 
 
+### Typing Fetch API Responses in Async Functions
+
+You can specify the variables type
+```ts
+const data: number = await response.json();
+```
+
+Is better to **Add a return type to the function**
+```ts
+async function fetchData(): Promise<number> {}
+```
 
 
 
