@@ -127,3 +127,22 @@ const modifyUser = (
 
 ### Restricting `Set` types
 
+We can specify we want a `Set` of numbers like so:
+```ts
+const userIds = new Set<number>();
+```
+
+An alternative, where we can specify the type of the variable itself:
+```ts
+const userIds: Set<number> = new Set();
+```
+
+### Adding Types to Maps
+
+
+
+
+
+
+
+
