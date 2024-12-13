@@ -41,3 +41,18 @@ function calculateArea(shape: Shape) {
   }
 }
 ```
+
+# Switch true
+
+```ts
+function calculateArea(shape: Shape) {
+  switch (true) {
+    case shape.kind === "circle": {
+      return Math.PI * shape.radius * shape.radius;
+    }
+    case shape.kind === "square": {
+      return shape.sideLength * shape.sideLength;
+    }
+  }
+}
+```
