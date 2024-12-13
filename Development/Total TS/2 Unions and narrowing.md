@@ -25,3 +25,6 @@ function area(s: Shape) {
 ```
 
 This way we can narrow the type using normal JavaScript, checking the identical property in all the options. So the key is to use `kind` as the discriminator. It is important to maintain the discriminator property consistent.
+
+# Destructuring discriminated unions
+
