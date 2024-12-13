@@ -29,3 +29,15 @@ This way we can narrow the type using normal JavaScript, checking the identical 
 # Destructuring discriminated unions
 
 https://kyleshevlin.com/discriminated-unions-and-destructuring-in-typescript/
+
+```ts
+function calculateArea(shape: Shape) {
+  if (shape.kind === "circle") {
+    const { radius } = shape;
+    return Math.PI * radius * radius;
+  } else {
+    const { sideLength } = shape;
+    return sideLength * sideLength;
+  }
+}
+```
