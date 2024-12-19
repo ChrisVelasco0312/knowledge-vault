@@ -69,9 +69,18 @@ type Scores = {
 	[suject: string]: number;
 }
 ```
-**Record** is a helper type can be used for the same
+**Record** is a helper type can be used for the same however it is better when we want specific key names.
 ```ts
 const scores: Record<string, number> = {}
 ```
 
 # Using the PropertyKey Type in TypeScript
+
+`PropertyKey` is a globally available type that represents all distinguishable keys that an object might need. The type definition of `PropertyKey` looks familiar:
+
+```ts
+// inside lib.es5.d.ts
+declare type PropertyKey = string | number | symbol;
+```
+
+`PropertyKey` type is great for use cases like this or when using index signatures!
