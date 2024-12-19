@@ -84,3 +84,22 @@ declare type PropertyKey = string | number | symbol;
 ```
 
 `PropertyKey` type is great for use cases like this or when using index signatures!
+
+# Pick Utility Type
+
+`Pick` allows to create new types by selectively choosing properties from an existing interface
+
+```ts
+type PickedUser = Pick<User, "name" | "email">;
+```
+
+This technique allow us to have **User** as a source of truth while also creating subtypes of **User** that contain only the properties needed.
+It is important to know that this utility types don't work well with union types. They are essentially designed for objects.
+
+# Omit Utility Type
+
+`Omit` allows to exclude particular properties from a  type in TypeScript.
+
+```ts
+type ProductWithoutId = Omit<Product, "id">;
+```
