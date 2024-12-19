@@ -61,3 +61,15 @@ function calculateArea(shape: Shape) {
 
 https://github.com/microsoft/TypeScript/wiki/Performance#preferring-interfaces-over-intersections
 
+# Dynamic Keys with Index Signatures and Record Types.
+
+**Index signatures** Typescript only accept one index signature per object
+```ts
+type Scores = {
+	[suject: string]: number;
+}
+```
+**Record** is a helper type can be used for the same
+```ts
+const scores: Record<string, number> = {}
+```
