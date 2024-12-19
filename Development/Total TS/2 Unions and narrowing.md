@@ -56,3 +56,8 @@ function calculateArea(shape: Shape) {
   }
 }
 ```
+
+# Why prefer Interfaces Over Intersections
+
+https://github.com/microsoft/TypeScript/wiki/Performance#preferring-interfaces-over-intersections
+
