@@ -73,3 +73,5 @@ type Scores = {
 ```ts
 const scores: Record<string, number> = {}
 ```
+
+# Using the PropertyKey Type in TypeScript
