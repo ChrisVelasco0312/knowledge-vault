@@ -178,4 +178,18 @@ const myAttrib: Attributes = {
 myFunc(myAttrib);
 ```
 
-# Read
+# Read-only properties
+TypeScript offers a first-class approach for this by adding the `readonly` keyword before the property, like so:
+```ts
+type User = {
+  readonly id: number;
+  name: string;
+  age: number;
+};
+```
+
+With this change, the `id` property becomes read-only, whereas the other properties `name` and `age` remain mutable.
+
+Remember, object properties in both TypeScript and JavaScript are mutable by default.
+
+Adding of `readonly` to a property has no runtime effect, but instead is a type annotation that provides crucial information. It informs you that a certain property should not be changed once it is set, which eliminates the risk of unwarranted mutations.
