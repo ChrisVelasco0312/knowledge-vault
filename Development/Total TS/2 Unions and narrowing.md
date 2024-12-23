@@ -193,3 +193,23 @@ With this change, the `id` property becomes read-only, whereas the other prope
 Remember, object properties in both TypeScript and JavaScript are mutable by default.
 
 Adding of `readonly` to a property has no runtime effect, but instead is a type annotation that provides crucial information. It informs you that a certain property should not be changed once it is set, which eliminates the risk of unwarranted mutations.
+
+# as Const
+By adding `as const` to `buttonAttributes`, a `readonly` modifier is applied to the type.
+
+```ts
+type ButtonAttributes = {
+  type: "button" | "submit" | "reset";
+};
+
+const buttonAttributes = {
+  type: "button",
+} as const;
+
+// hovering over buttonAttributes shows:
+const buttonAttributes: {
+  readonly type: "button";
+}
+```
+
+Using `as const` is an incredibly effective pattern found in a multitude of applications, especially when configuring objects in TypeScript.
