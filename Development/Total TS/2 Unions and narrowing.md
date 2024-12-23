@@ -102,7 +102,8 @@ It is important to know that this utility types don't work well with union types
 
 ```ts
 type ProductWithoutId = Omit<Product, "id">;
-```
+
+
 
 # Mutability
 
