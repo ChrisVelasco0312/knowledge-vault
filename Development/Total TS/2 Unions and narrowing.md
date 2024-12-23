@@ -103,3 +103,28 @@ It is important to know that this utility types don't work well with union types
 ```ts
 type ProductWithoutId = Omit<Product, "id">;
 ```
+
+# Mutability
+
+**Inference error**
+
+When using let, to pass a variable as the value of an object with a defined type, typescript shows an error:
+
+```ts
+type Button = {
+  type: "button" | "submit" | "reset";
+};
+
+let type = "button";
+
+let myObj: Button = {
+  type,
+};
+// Type 'string' is not assignable to type '"button" | "submit" | "reset"'
+
+```
+
+This happens because typescript knows that variables declares with `let` can be modified later in the code. TypeScript infers `let` as the most general possible version of the type to allow mutations `string`.
+
+To solve this error we have to specify the variable as a `const`, that way typescript knwos the variable is not going to change:
+
