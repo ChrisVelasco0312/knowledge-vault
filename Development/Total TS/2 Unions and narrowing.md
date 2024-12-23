@@ -124,7 +124,58 @@ let myObj: Button = {
 
 ```
 
-This happens because typescript knows that variables declares with `let` can be modified later in the code. TypeScript infers `let` as the most general possible version of the type to allow mutations `string`.
+This happens because typescript knows that variables declared with `let` can be modified later in the code. TypeScript infers `let` as the most general possible version of the type to allow mutations `string`.
 
-To solve this error we have to specify the variable as a `const`, that way typescript knwos the variable is not going to change:
+To solve this error we have to specify the variable as a `const`, that way TypeScript knows the variable is not going to change:
 
+```ts
+type Button = {
+  type: "button" | "submit" | "reset";
+};
+
+const type = "button";
+
+let myObj: Button = {
+  type,
+};
+```
+
+# Object property inference
+
+In function parameters occurs something similar
+```ts
+type Attributes = {
+  kind: "monster" | "human" | "creature"
+}
+
+function myFunc (attributes: Attributes) {{attributes}}
+
+const myAttrib = {
+  kind: "human"
+}
+
+myFunc(myAttrib);
+// Type 'string' is not assignable to type '"monster" | "human" | "creature"'. 
+```
+
+The solution is to add a type to the const myAttrib, this way TypeScript can check the types.
+
+```ts
+type Attributes = {
+  kind: "monster" | "human" | "creature";
+};
+
+function myFunc(attributes: Attributes) {
+  {
+    attributes;
+  }
+}
+
+const myAttrib: Attributes = {
+  kind: "human",
+};
+
+myFunc(myAttrib);
+```
+
+# Read
