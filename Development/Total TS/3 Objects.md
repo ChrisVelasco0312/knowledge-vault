@@ -31,3 +31,13 @@ const scores: Record<string, number> = {};
 
 # Default properties
 
+Index signatures can be mixed with default properties:
+```ts
+interface Scores {
+	[subject: string]: number;
+	math: number;
+	english: number;
+	science: number;
+}
+```
+
