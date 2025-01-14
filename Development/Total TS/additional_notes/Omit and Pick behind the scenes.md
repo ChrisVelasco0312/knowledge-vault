@@ -51,7 +51,7 @@ TypeScript will simply ignore them without throwing an error.
 - [Pick Utility Type](https://refine.dev/blog/typescript-pick-utility-type/#what-is-typescript-pick)
 - [Stack overflow discussion](https://stackoverflow.com/questions/73164042/why-does-typescripts-omit-not-enforce-the-value-of-the-omitted-properties)
 
-# A custom Sctricter Version of Omit
+# A custom Stricter Version of Omit
 
 The original implementation of the `Omit` utility is:
 `type Omit<T, K extends keyof any> = Pick<T, Exclude<keyof T, K>>;`

@@ -151,3 +151,5 @@ type UserWithoutPhoneNumber = Omit<User, "phoneNumber">;
 ```
 
 While `Pick` throws an error when selecting properties that don't exist.
+
+Learn more: [[Omit and Pick behind the scenes]]
