@@ -20,22 +20,16 @@ ts
 - **of a tree**: [v-tr]
 
 
-4. **farmer’s**: [f-rm, r-s]
-5. **daughter**: [d-gh, gh-t]
-6. **was**: None
-7. **playing**: [pl]
-8. **outside**: [ts-d]
-9. **when**: [wh]
-10. **she**: [sh]
-11. **stumbled**: [st, mb, bl]
-12. **upon**: [p-n]
-13. **a**: None
-14. **bird’s**: [rd, r-s]
-15. **egg**: None
-16. **that**: [th]
-17. **had**: None
-18. **fallen**: [ll, ln]
-19. **out**: None
-20. **of**: None
-21. **a**: None
-22. **tree**: [tr]
+rm
+gh
+ght
+pl
+ts
+wh
+sh
+st 
+mbl
+rds
+th
+ll
+tr
