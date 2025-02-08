@@ -16,18 +16,8 @@ So I will try to strengthen the social politics around private sector, to obliga
 
 #### **3. What is your happiest childhood memory? Describe it and give reasons to explain why it is your happiest memory.**
 
-**Initial Idea:**
+It was a trip to a river in Patia Cauca, named "El estrecho". I had 11 when al our family went to this trip. I remember being really happy sharing this time with my brother, mother and dad. It took place in an event where people from different places got there and enjoy the very good weather of this time, that was the first time I knew what paragliding was, and I was really impressed by how high people got, however I did not try it until I was older, but that woke up my interests in this activity. This river had a particularity that make it unique, the ground was soft sand, like in the beach, so it didn't hurt to walk above. People build sand castles like in the beach.
 
-- **Memory:** A family trip to the beach.
-    
-- **Description:** We spent the day building sandcastles, swimming, and having a picnic.
-    
-- **Reason:** It was a day filled with laughter and joy, and it strengthened my bond with my family.
-    
+#### **4. Some people enjoy taking risks and trying new things. Others are not adventurous; they are cautious and prefer to avoid danger. Which behavior do you think is better?**
 
-**Refined Idea (with context):**
-
-- It was a trip to a river in Patia Cauca, named "El estrecho". I had 11 when al our family went to this trip. I remember being really happy sharing this time with my brother, mother and dad. It took place in an event wh
-    
-    
-- **Reason:** 
+I like to take risks, but with prudence. I'm cautious when I make decisions. I prefer to study my decisions very well because I'm aware that I'm not in a privileged position myself. I have a lot to lose, but when I see a good opportunity I take it.
