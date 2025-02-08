@@ -1,4 +1,6 @@
+I’m doing great, thank you! I’ve been recovering from a bout of the flu—I was really sick for a while and still have a bit of a cough, but I’m feeling much better now.
 
+Lately, I’ve been balancing work and studies. I’m really happy and excited because I’ve decided to pursue a new degree at university. I’m diving into Software and Data Engineering, which I think will really expand my horizons. I already work as a web developer, and while I have a background in Graphic Design, I’ve found myself more drawn to STEM fields lately. I’m passionate about science and technology, and I’d love to continue my academic journey in the future, possibly even doing research in software and computer science.
 ### **1. Talk about a person in your life that has inspired you.**
 
 The person who has inspired me the most is my mom. She’s such a hardworking person, and she really came from nothing while raising me and my brother—I’m the oldest, by the way. When we were kids, things were really tough financially. She was unemployed for a while, and we struggled to pay the bills. But she sacrificed so much, even time with us, to work hard and make sure we had everything we needed to study and eventually graduate. 
@@ -30,3 +32,5 @@ It was just one of those days where everything felt perfect, and I was so happy 
 ### **4. Some people enjoy taking risks and trying new things. Others are not adventurous; they are cautious and prefer to avoid danger. Which behavior do you think is better?**
 
 I think I’m somewhere in the middle. I like taking risks, but I’m also cautious. I always try to think things through before making a decision because I know I’m not in a position where I can afford to lose a lot. But when I see a good opportunity, I’ll go for it. I think it’s about balance—being brave enough to take chances but smart enough to know when to hold back. 
+
+Yes, I feel really excited today and prepared to tackle my milestone performance. Maybe a little nervous, but I think I’m ready!
