@@ -7,17 +7,27 @@
 
 #### **2. If you were president, what would you change, why would you change them, and how would you do it?**
 
+
+This one is really hard, because I got really stressed by politics and it is even worst if is related with my country.
+
+I will say the obvious, that bring education to people in poverty is the answer but no, the social reality is really complex. Vulnerable people in marginal contexts, 33% in extreme monetary poverty, that being based on data collected in 2023 by "Departamento Nacional de planeación", you can't just ask them to study when they have big problems trying to even eat and survive. 
+
+So I will try to strengthen the social politics around private sector, to obligate the companies to have programs to employ people in this sectors. Also this sectors have health problems, so we have to improve the administration of healthcare in our country. And last but not least, I have a strong believe that corruption is the rotten root of all our problems, so we will have to be strict with the measures taken against the criminals in our government that are corrupt. That will be exemplary measure with even life sentences. 
+
+#### **3. What is your happiest childhood memory? Describe it and give reasons to explain why it is your happiest memory.**
+
 **Initial Idea:**
 
-- **Change:** Improve the education system.
-- **Why:** Education is the foundation of a prosperous society, and many students lack access to quality education.
-- **How:** Increase funding for schools, provide better training for teachers, and ensure that all children have access to necessary resources.
+- **Memory:** A family trip to the beach.
     
+- **Description:** We spent the day building sandcastles, swimming, and having a picnic.
+    
+- **Reason:** It was a day filled with laughter and joy, and it strengthened my bond with my family.
+    
+
 **Refined Idea (with context):**
 
-This one is really hard, because I get really stressed by politics and it is even worst if is related with my country.
-- **Change:** I will say the obvious, that bring education to people in poverty is the answer but no, the social reality is really complex. Vulnerable people in marginal contexts, 33% in extreme monetary poverty, that being based on data collected in 2023 by "Departamento Nacional de planeación", you can't just ask them to study when they have big problems trying to even eat and survive. So I will try to strengthen the social politics around private sector, to obligate the companies to have programs to employ people in this sectors, and then assign leaders to c
+- It was a trip to a river in Patia Cauca, named "El estrecho". I had 11 when al our family went to this trip. I remember being really happy sharing this time with my brother, mother and dad. It took place in an event wh
     
-- **Why:** [Explain the importance of this change, e.g., impact on health, environment, economy].
     
-- **How:** [Describe the steps you would take, e.g., passing laws, increasing public awareness].
+- **Reason:** 
