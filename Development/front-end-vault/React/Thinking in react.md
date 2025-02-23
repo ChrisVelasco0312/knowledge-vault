@@ -37,7 +37,7 @@ On smaller projects, it's easier to go top-down and in bigger bottom-up.
 
 The state as the minimal set of changing data, changed by interaction with the UI.
 Questions for deciding if something needs a state:
-	- Does it remain unchange over time?
+	- Does it remain unchanged over time?
 	- Is it passed from a parent via props?
 	- Can you compute it based on existing state or props in your component?
 
