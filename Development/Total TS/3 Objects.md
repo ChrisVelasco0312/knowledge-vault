@@ -153,3 +153,45 @@ type UserWithoutPhoneNumber = Omit<User, "phoneNumber">;
 While `Pick` throws an error when selecting properties that don't exist.
 
 Learn more: [[Omit and Pick behind the scenes]]
+
+# The Partial Utility
+
+The `Partial` utility converts an object's properties to optional
+
+```ts
+interface Product {
+  id: number;
+  name: string;
+  price: number;
+  description: string;
+}
+
+type PartialProduct = Partial<Product>;
+```
+
+When hovering over we can see that all properties are optional
+
+```ts
+// hovering over PartialProduct shows:
+type PartialProduct = {
+  id?: number | undefined;
+  name?: string | undefined;
+  price?: number | undefined;
+  description?: string | undefined;
+};
+```
+
+# The Required type helper
+
+Is an inverse of `Partial`, making all the properties required
+
+```ts
+type Coordinates = {
+  x?: number;
+  y?: number;
+};
+
+type CoordinatesRequires = Required<Coordinates>;
+```
+
+The `Required` type helper only works one level deep
