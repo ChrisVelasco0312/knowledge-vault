@@ -186,6 +186,8 @@ type User = {
 const userMap = new Map<number, User>();
 ```
 
+[[maps]]
+
 ### Typing Fetch API Responses in Async Functions
 
 You can specify the variables type

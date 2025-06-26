@@ -76,3 +76,23 @@ const arr = Array.from(mySet.values());
 //or
 const arr = mySet.values().toArray();
 ```
+You don't need to use .values() to iterate a Set — it's equivalent to just
+using the set directly. But it adds clarity, consistency, and flexibility,
+especially when writing generic or interoperable code.
+
+# The 2025 New Set Methods
+
+In 2025 7 logical methods were added to the Set object
+
+- Set union()
+- Set intersection()
+- Set difference()
+- Set symmetricDifference()
+- Set isSubsetOf()
+- Set isSupersetOf()
+- Set isDisjointFrom()
+
+more information: [set methods](https://www.w3schools.com/js/js_set_methods.asp)
+
+# Typescript
+[[1 Essential types and annotations#restricting-set-types]]
